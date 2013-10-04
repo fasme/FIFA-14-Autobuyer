@@ -137,7 +137,7 @@ class Connector
 			'Content-Type: application/json',
 			'Easw-Session-Data-Nucleus-Id: '.$nucleusId,
 			'X-UT-Embed-Error: true',
-			'X-UT-Route: https://utas.fut.ea.com',
+			'X-UT-Route: https://utas.s2.fut.ea.com:443',
 			'X-Requested-With: XMLHttpRequest')                                                                                                                                                   
 		); 
 
